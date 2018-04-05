@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"valida",
+				"validate_email"
+			],
+			[
+				"ema",
+				"emailConstrainta"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"json_",
+				"json_decode"
+			],
+			[
+				"u",
+				"users"
+			],
+			[
+				"s",
+				"serializer"
+			],
+			[
+				"user",
+				"userRepo"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"con",
+				"conexion"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "symfony/src/AppBundle/Controller/DefaultController.php",
+			"settings":
+			{
+				"buffer_size": 2642,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "symfony/src/AppBundle/Services/JwtAuth.php",
+			"settings":
+			{
+				"buffer_size": 651,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "symfony/src/AppBundle/Resources/config/routing/default.yml",
+			"settings":
+			{
+				"buffer_size": 322,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "symfony/src/AppBundle/Services/Helpers.php",
+			"settings":
+			{
+				"buffer_size": 678,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "symfony/app/config/parameters.yml",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "symfony/app/config/services.yml",
+			"settings":
+			{
+				"buffer_size": 1725,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/obra",
+		"/C/xampp/htdocs/obra/symfony",
+		"/C/xampp/htdocs/obra/symfony/app",
+		"/C/xampp/htdocs/obra/symfony/app/config",
+		"/C/xampp/htdocs/obra/symfony/app/Resources",
+		"/C/xampp/htdocs/obra/symfony/src",
+		"/C/xampp/htdocs/obra/symfony/src/AppBundle"
+	],
+	"file_history":
+	[
+		"/E/UniServerZ/www/obra/symfony/var/logs/dev.log",
+		"/E/UniServerZ/www/obra/symfony/src/BackendBundle/Resources/config/doctrine/User.orm.yml",
+		"/E/UniServerZ/www/obra/symfony/src/BackendBundle/Resources/config/doctrine/Task.orm.yml",
+		"/F/UniServerZ/www/obra/symfony/app/config/routing.yml",
+		"/F/UniServerZ/www/obra/symfony/composer.json",
+		"/F/UniServerZ/www/obra/symfony/app/config/parameters.yml",
+		"/C/Users/Alejandro/Desktop/locked-db_2018-04-02.sql",
+		"/F/UniServerZ/www/obra/symfony/src/AppBundle/Resources/config/routing.yml",
+		"/F/UniServerZ/www/obra/symfony/src/AppBundle/Resources/config/routing/default.yml",
+		"/F/UniServerZ/www/obra/symfony/src/AppBundle/Controller/DefaultController.php",
+		"/C/xampp/htdocs/version 5.0/ajax/pagination.php",
+		"/C/wamp/wampmanager.conf",
+		"/C/wamp/bin/apache/apache2.4.2/conf/httpd.conf",
+		"/C/wamp64/www/cruddyn/componentes/tabla.php",
+		"/C/wamp64/www/cruddyn/php/actualizaDatos.php",
+		"/C/wamp64/www/cruddyn/js/funciones.js",
+		"/C/wamp64/www/cruddyn/php/agregardatos.php",
+		"/C/wamp64/www/cruddyn/index.php",
+		"/C/wamp64/www/cruddyn/php/conexion.php",
+		"/C/wamp64/www/cruddyn/bd/bd.sql",
+		"/D/TodoProgramacion/tecnica/php/rq.php",
+		"/D/TodoProgramacion/tecnica/assets/bootstrap/js/funcionesPropias",
+		"/D/TodoProgramacion/tecnica/assets/bootstrap/js/bootstrap.js",
+		"/C/Users/Alejandro/Desktop/template-blur-login-form/index.html",
+		"/C/Users/Alejandro/Desktop/template-blur-login-form/assets/bootstrap/js/bootstrap.js",
+		"/C/Users/Alejandro/Desktop/template-blur-login-form/assets/bootstrap/css/bootstrap.css",
+		"/C/wamp64/logs/php_error.log",
+		"/C/wamp64/bin/apache/apache2.4.23/bin/php.ini",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"request",
+			"Request",
+			"params",
+			"password",
+			"email"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "symfony/src/AppBundle/Controller/DefaultController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "symfony/src/AppBundle/Services/JwtAuth.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "symfony/src/AppBundle/Resources/config/routing/default.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "symfony/src/AppBundle/Services/Helpers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "symfony/app/config/parameters.yml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "symfony/app/config/services.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1725,
+								1475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "obra.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
